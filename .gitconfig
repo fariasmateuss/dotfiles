@@ -2,6 +2,8 @@
 	ui = auto
 [core]
 	editor = code --wait
+[init]
+	defaultBranch = main
 [alias]
   ci = commit
 	co = checkout
