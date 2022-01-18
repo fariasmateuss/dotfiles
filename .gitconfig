@@ -7,7 +7,7 @@
 [alias]
   ci = commit
 	co = checkout
-  cm = checkout master
+  cm = checkout main
   cb = checkout -b
   st = status -sb
   br = branch
