@@ -64,17 +64,6 @@
   "extensions.ignoreRecommendations": false, // Do not ignore recommendations
   // Colorize settings
   "colorize.languages": ["javascript", "typescript", "json", "html", "css"],
-  // Peacock colors (customizable)
-  "peacock.favoriteColors": [
-    {
-      "name": "Purple",
-      "value": "#7159C1"
-    },
-    {
-      "name": "Dracula Dark",
-      "value": "#0B0A10"
-    }
-  ],
   // Pretier settings
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -98,9 +87,6 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.inlineSuggest.enabled": true,
   "github.copilot.enable": {
-    "*": true,
-    "yaml": false,
-    "plaintext": false,
-    "markdown": true
+    "*": true
   }
 }
