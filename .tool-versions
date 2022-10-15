@@ -1,2 +1,4 @@
 nodejs lts
-yarn 1.22.17
+yarn 1.22.19
+rust 1.64.0
+python pyston-2.3.5
