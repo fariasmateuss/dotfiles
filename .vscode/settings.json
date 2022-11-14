@@ -1,9 +1,8 @@
 {
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "Bearded Theme Monokai Terra",
   "workbench.iconTheme": "material-icon-theme",
   // Good for Recording
-  "editor.quickSuggestions": false,
   "editor.mouseWheelZoom": true,
   "editor.renderLineHighlight": "gutter",
   "breadcrumbs.enabled": true,
